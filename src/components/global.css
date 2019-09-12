@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(235, 245, 255);
+}
+
+section {
+  margin: 1rem;
+  padding: 2rem;
+}
+
+a {
+  text-decoration: none !important;
+  color: #004080;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #419eda;
+}
+
+p {
+  margin: 0.5rem 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+ul > li {
+  margin: 2rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid #cadced;
+}

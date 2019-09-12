@@ -9,6 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 
 import "./layout.css"
+import "./global.css"
 
 const Layout = ({ children }) => (
   <>
